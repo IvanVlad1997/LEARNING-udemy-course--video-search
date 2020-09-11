@@ -4,7 +4,7 @@ import youtube from '../apis/youtube';
 import VideoList from './VideoList'
 import VideoDetail from './VideoDetail';
  
-const KEY = "AIzaSyAFMe_8hEsdxzqPur5PJFfHIA1t5VbMTpc";
+const KEY = Yt key
  
 class App extends React.Component {
 
